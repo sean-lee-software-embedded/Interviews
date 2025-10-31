@@ -10,7 +10,9 @@
 2. 是否有技術測驗 / take-home / 現場案例簡報？需要準備哪類題型（測試設計、Python、自動化平台、管理情境題）？第三方整理常見：Recruiter 初聊、技術面、可能有 coding/domain 專場。請問本 team 是否採用？
 
 **Answer:** BMC/BIOS firmware，software automation、testing、automation，data center
+
 3. 每一輪面談面試官角色（研發、QA、平台、跨區同事）與重點主題為何？
+
 4. 會不會安排實驗室/測試環境介紹或 tour（若是 onsite）？
 
 ## 工作模式 / 地點（WFH / 混合 / 到班）
